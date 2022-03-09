@@ -1,8 +1,7 @@
 {
     "type":  "PTE",
-    "country": "us",
+    "country":  "us",
     "enablePerTenantExtensionCop":  false,
-    "repoVersion": "3.0",
     "appFolders":  [
                        "EnableEncryption"
                    ],
