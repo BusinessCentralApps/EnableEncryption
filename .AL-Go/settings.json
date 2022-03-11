@@ -1,8 +1,10 @@
 {
     "type":  "PTE",
-    "country": "us",
+    "country": "w1",
     "enablePerTenantExtensionCop":  false,
-    "repoVersion": "3.0",
+    "artifact":  "/onprem/15.0/w1/latest",
+    "applicationDependency":  "15.0.0.0",
+    "repoVersion": "15.0",
     "appFolders":  [
                        "EnableEncryption"
                    ],
